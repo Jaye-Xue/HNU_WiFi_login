@@ -19,6 +19,6 @@ curl -X GET 'http://10.2.68.30:801/eportal/portal/login?callback=dr1003&login_me
 
 # 我针对Windows开机自动认证和Ubuntu定期认证写了详细教程：
 
-[Windows开机自动认证](boot_login) （电脑有时关机后开机就要重新登录很烦）
+[Windows开机自动认证](boot_login_in_windows.md) （电脑有时关机后开机就要重新登录很烦）
 
 [Ubuntu定期认证](regular_login_in_ubuntu.md) (插网线的服务器认证后保持了几天后就要重新认证)
